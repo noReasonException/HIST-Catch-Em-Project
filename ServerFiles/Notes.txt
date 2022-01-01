@@ -1,0 +1,6 @@
+CCT = Camera Commands Transmitter
+TCT = Terminal Commnands Transmitter
+
+cctf = CCT file!
+cpsg = cristine protocol segment file
+
